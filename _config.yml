@@ -1,3 +1,5 @@
 name: Francois Genolini
+description: Software engineer, string bass player, from Aberdeen, Scotland
+url: http://fgenolini.github.io/blog
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
